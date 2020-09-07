@@ -1,0 +1,1 @@
+This file contains the anwers to the questions about how to use Vi editor
